@@ -1,4 +1,4 @@
-# Random-Forest-Classifier-with-the-Iris-Dataset
+# Random-Forest-Classifier-for-the-Iris-Dataset
 Anna Rousos
 Training an Random Forest Classifier for the Iris Dataset. Performed EDA (heatmap, boxplot) with Grid Search over hyperparameters max_depth = None, max_features = 1, n_estimators = 300.
 July 11, 2024
